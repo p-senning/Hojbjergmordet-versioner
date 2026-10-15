@@ -2,9 +2,9 @@
   "schema_version": 1,
   "programmer": {
     "Netvaerksudforsker": {
-      "version": "0.1.1",
+      "version": "0.1.2",
       "dato": "2026-10-15",
-      "url": "https://github.com/p-senning/Hojbjergmordet-netvaerk/blob/main/Netvaerksudforsker.html"
+      "url": "https://github.com/p-senning/Hojbjergmordet-netvaerk/blob/main/Netvaerksudforsker_v0.1.2.html"
     },
     "Stifinder": {
       "version": null,
